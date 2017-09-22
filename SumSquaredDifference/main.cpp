@@ -32,4 +32,4 @@ int main(int argc, const char * argv[]) {
     int difference = sumOfSquares - SqOfSum;
     std::cout << difference;
     return 0;
-}
+} 
